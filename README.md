@@ -155,15 +155,15 @@ Demonstrating proficiency across modern data engineering tools and patterns:
 
 **Seeking:** Data Engineering roles (Junior to Mid-level)  
 **Location:** Brasília, Brazil | **Remote:** Yes  
-**Interests:** 
-- **Data Engineering:** Data warehousing (BigQuery, Snowflake, DuckDB), ETL/ELT pipelines, stream processing (Kafka, Pub/Sub), workflow orchestration (Airflow, Cloud Functions), data modeling, analytics engineering (dbt)
-- **Cloud & Infrastructure:** Google Cloud Platform (GCP), serverless architecture, Cloud Functions, Cloud Storage, Firestore, infrastructure optimization, cost engineering
-- **Software Development:** Full-stack development (React, React Native, TypeScript, Python), mobile applications, web dashboards, RESTful APIs, microservices architecture
-- **Real-time Systems:** Event-driven architectures, real-time data ingestion, streaming analytics, low-latency processing, Kappa/Lambda architectures
-- **Machine Learning:** Feature stores (Feast), ML infrastructure, MLOps, model serving, feature engineering pipelines
-- **Data Integration:** OCR systems (Azure Computer Vision, Tesseract), document processing, API integrations, data extraction and transformation
-- **Performance Optimization:** Query optimization, caching strategies, partitioning/clustering, database tuning, cost-performance tradeoffs
-- **DevOps & Automation:** Docker, CI/CD pipelines, monitoring and observability, infrastructure as code, automated testing
+
+**Core Interests:**  
+🔹 **Data Platforms:** Warehousing (BigQuery, Snowflake, DuckDB), stream processing (Kafka, Pub/Sub), orchestration (Airflow)  
+🔹 **Cloud Architecture:** GCP serverless, cost optimization, real-time systems (Kappa/Lambda)  
+🔹 **Analytics Engineering:** dbt, data modeling, query optimization  
+🔹 **ML Infrastructure:** Feature stores (Feast), MLOps, model serving  
+🔹 **Full-Stack Dev:** React/React Native, TypeScript, Python, microservices  
+
+**Bonus Skills:** OCR/document processing, DevOps (Docker, CI/CD), performance tuning
 
 ---
 
