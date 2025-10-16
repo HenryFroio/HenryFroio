@@ -1,10 +1,10 @@
-# 👋 Hi, I'm Henry Froio
+# 👋 Henry Froio
 
-**Data Engineer** specializing in **cost-optimized cloud architectures**, **high-performance data pipelines**, and **real-time processing systems**.
+**Software & Data Engineer** | Building scalable data platforms, cloud-native applications, and intelligent automation systems | Specialized in cost-optimized architectures, real-time processing, and end-to-end ETL/ELT pipelines
 
 ## 🎯 Quick Stats
 
-- 💼 **4+ years** building production data systems
+- 💼 **4 years** as Software Engineer + **1 year** as Data Engineer
 - 💰 **$6,000+/year** saved through architectural optimizations
 - 📊 **160K+ records** processed in BigQuery data warehouse
 - ⚡ **95% performance improvements** in real-world applications
@@ -154,8 +154,16 @@ Demonstrating proficiency across modern data engineering tools and patterns:
 ## 💼 Open to Opportunities
 
 **Seeking:** Data Engineering roles (Junior to Mid-level)  
-**Location:** Alexânia, Goiás, Brazil | **Remote:** Yes  
-**Interests:** Cloud data platforms, stream processing, analytics engineering, ML infrastructure
+**Location:** Brasília, Brazil | **Remote:** Yes  
+**Interests:** 
+- **Data Engineering:** Data warehousing (BigQuery, Snowflake, DuckDB), ETL/ELT pipelines, stream processing (Kafka, Pub/Sub), workflow orchestration (Airflow, Cloud Functions), data modeling, analytics engineering (dbt)
+- **Cloud & Infrastructure:** Google Cloud Platform (GCP), serverless architecture, Cloud Functions, Cloud Storage, Firestore, infrastructure optimization, cost engineering
+- **Software Development:** Full-stack development (React, React Native, TypeScript, Python), mobile applications, web dashboards, RESTful APIs, microservices architecture
+- **Real-time Systems:** Event-driven architectures, real-time data ingestion, streaming analytics, low-latency processing, Kappa/Lambda architectures
+- **Machine Learning:** Feature stores (Feast), ML infrastructure, MLOps, model serving, feature engineering pipelines
+- **Data Integration:** OCR systems (Azure Computer Vision, Tesseract), document processing, API integrations, data extraction and transformation
+- **Performance Optimization:** Query optimization, caching strategies, partitioning/clustering, database tuning, cost-performance tradeoffs
+- **DevOps & Automation:** Docker, CI/CD pipelines, monitoring and observability, infrastructure as code, automated testing
 
 ---
 
