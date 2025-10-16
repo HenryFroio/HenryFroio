@@ -1,10 +1,10 @@
-# 👋 Henry Froio
+# Henry Froio
 
 **Software & Data Engineer** | Building scalable data platforms, cloud-native applications, and intelligent automation systems | Specialized in cost-optimized architectures, real-time processing, and end-to-end ETL/ELT pipelines
 
 ## 🎯 Quick Stats
 
-- 💼 **4 years** as Software Engineer + **1 year** as Data Engineer
+- 💼 **1 year** as Data Engineer (4 years Software Engineering background)
 - 💰 **$6,000+/year** saved through architectural optimizations
 - 📊 **160K+ records** processed in BigQuery data warehouse
 - ⚡ **95% performance improvements** in real-world applications
