@@ -6,7 +6,7 @@
 
 - 💼 **1 year** as Data Engineer (4 years Software Engineering background)
 - 💰 **$6,000+/year** saved through architectural optimizations
-- 📊 **160K+ records** processed in BigQuery data warehouse
+- 📊 **2.2M+ records** processed in BigQuery data warehouse
 - ⚡ **95% performance improvements** in real-world applications
 - 🏗️ **Kappa Architecture** implementation in production
 
@@ -16,13 +16,13 @@
 
 ### [Farmanossa - Pharmacy Delivery Data Platform](https://github.com/HenryFroio/farmanossa-expo-demo)
 
-**Production-grade data engineering system** processing **1,000+ daily orders** with Kappa Architecture.
+**Production-grade data engineering system** processing **12K+ daily transactions** with Kappa Architecture.
 
 #### Key Achievements:
 ```
 🔹 $6,000+/year infrastructure cost reduction
 🔹 95% dashboard performance improvement (90s → 2-3s)
-🔹 160K+ records in BigQuery warehouse (68K orders + 92K delivery runs)
+🔹 2.2M+ records in BigQuery warehouse (160K orders + 96K runs + 1.92M coordinates)
 🔹 80%+ cache hit ratio with intelligent 3-layer caching
 🔹 90% query scan reduction via partitioning/clustering
 🔹 Custom OCR pipeline solving missing POS API integration
@@ -121,7 +121,7 @@ Demonstrating proficiency across modern data engineering tools and patterns:
 
 | Category | Production Experience | POC/Learning |
 |----------|----------------------|--------------|
-| **Data Warehousing** | BigQuery (160K+ records) | DuckDB (Lakehouse) |
+| **Data Warehousing** | BigQuery (2.2M+ records) | DuckDB (Lakehouse) |
 | **Orchestration** | Cloud Scheduler (production) | Apache Airflow (ELT pipelines) |
 | **Stream Processing** | Firestore real-time listeners | Kafka/Pub-Sub (real-time POC) |
 | **Transformation** | Cloud Functions (serverless ETL) | dbt (analytics engineering) |
@@ -133,7 +133,7 @@ Demonstrating proficiency across modern data engineering tools and patterns:
 
 ## 💡 What I Bring to Your Team
 
-✅ **Production Experience:** Shipped systems processing 1,000+ daily transactions  
+✅ **Production Experience:** Shipped systems processing 12K+ daily transactions  
 ✅ **Cost Consciousness:** Saved $6,000+/year through architectural decisions  
 ✅ **Performance Focus:** 95% improvements in real-world applications  
 ✅ **Problem Solving:** Built OCR pipeline when APIs weren't available  
