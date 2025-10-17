@@ -5,10 +5,10 @@
 ## 🎯 Quick Stats
 
 - 💼 **1 year** as Data Engineer (4 years Software Engineering background)
-- 💰 **$6,000+/year** saved through architectural optimizations
-- 📊 **2.2M+ records** processed in BigQuery data warehouse
+- 💰 **$24,000+/year** saved through architectural optimizations
+- 📊 **2.47M+ records** processed in BigQuery data warehouse (189K orders + 73K runs + 2.21M GPS coordinates)
 - ⚡ **95% performance improvements** in real-world applications
-- 🏗️ **Kappa Architecture** implementation in production
+- 🏗️ **Kappa Architecture** implementation in production with **end-to-end ownership**
 
 ---
 
@@ -16,26 +16,28 @@
 
 ### [Farmanossa - Pharmacy Delivery Data Platform](https://github.com/HenryFroio/farmanossa-expo-demo)
 
-**Production-grade data engineering system** processing **12K+ daily transactions** with Kappa Architecture.
+**Production-grade data engineering system with end-to-end ownership** - architected and built complete data platform from data sourcing to analytics delivery, processing **~38K orders/month** (~1,260/day) with Kappa Architecture.
 
 #### Key Achievements:
 ```
-🔹 $6,000+/year infrastructure cost reduction
-🔹 95% dashboard performance improvement (90s → 2-3s)
-🔹 2.2M+ records in BigQuery warehouse (160K orders + 96K runs + 1.92M coordinates)
+🔹 End-to-end ownership: data sourcing (OCR) → processing (ETL) → warehousing (BigQuery) → delivery (dashboards)
+🔹 $24,000+/year infrastructure cost reduction (93% reduction: $2,176/month → $156/month)
+🔹 95% dashboard performance improvement (90s → 2-3s cold / 50ms cached)
+🔹 2.47M+ records in BigQuery warehouse (189K orders + 73K runs + 2.21M GPS coordinates)
 🔹 80%+ cache hit ratio with intelligent 3-layer caching
 🔹 90% query scan reduction via partitioning/clustering
-🔹 Custom OCR pipeline solving missing POS API integration
+🔹 Custom OCR pipeline solving missing POS API integration (1,000+ orders/day, 95%+ accuracy)
 ```
 
 #### Technical Highlights:
+- **End-to-End Ownership:** Architected and built complete data platform independently (sourcing, ETL, warehousing, analytics)
 - **Architecture:** Kappa (Firestore operational + BigQuery analytical)
-- **ETL Pipelines:** Serverless Cloud Functions processing 100+ orders per execution
+- **ETL Pipelines:** Serverless Cloud Functions processing 100+ orders per execution (5-min sync, FREE via temp file upload)
 - **Query Optimization:** Master query with 9 CTEs (7x faster, sub-second response)
-- **Cost Engineering:** Native GPS + Haversine vs Google Maps API ($500/month saved)
-- **Data Integration:** OCR-based ingestion (95%+ accuracy, zero manual entry)
+- **Cost Engineering:** Native GPS + Haversine vs Google Maps API ($2,000+/month saved)
+- **Data Integration:** OCR-based ingestion (95%+ accuracy, <5s processing, zero manual entry)
 
-**Tech Stack:** `BigQuery` `Cloud Functions` `Firestore` `TypeScript` `SQL` `GCP` `Cloud Scheduler`
+**Tech Stack:** `BigQuery` `Cloud Functions` `Firestore` `Azure` `SQL` `GCP` `Cloud Scheduler`
 
 [📖 Full Technical Documentation →](https://github.com/HenryFroio/farmanossa-expo-demo)
 
@@ -121,22 +123,23 @@ Demonstrating proficiency across modern data engineering tools and patterns:
 
 | Category | Production Experience | POC/Learning |
 |----------|----------------------|--------------|
-| **Data Warehousing** | BigQuery (2.2M+ records) | DuckDB (Lakehouse) |
-| **Orchestration** | Cloud Scheduler (production) | Apache Airflow (ELT pipelines) |
+| **Data Warehousing** | BigQuery (2.47M+ records, 5 months production) | DuckDB (Lakehouse) |
+| **Orchestration** | Cloud Scheduler (5-min ETL sync) | Apache Airflow (ELT pipelines) |
 | **Stream Processing** | Firestore real-time listeners | Kafka/Pub-Sub (real-time POC) |
-| **Transformation** | Cloud Functions (serverless ETL) | dbt (analytics engineering) |
-| **Databases** | Firestore (operational) | PostgreSQL, DuckDB |
-| **ML Infrastructure** | OCR pipelines (production) | Feast (feature store) |
-| **Visualization** | Custom dashboards | Streamlit (interactive apps) |
+| **Transformation** | Cloud Functions (100+ orders/exec) | dbt (analytics engineering) |
+| **Databases** | Firestore (operational, ~38K orders/month) | PostgreSQL, DuckDB |
+| **ML Infrastructure** | OCR pipelines (1,000+ orders/day) | Feast (feature store) |
+| **Visualization** | Custom dashboards (95% faster) | Streamlit (interactive apps) |
 
 ---
 
 ## 💡 What I Bring to Your Team
 
-✅ **Production Experience:** Shipped systems processing 12K+ daily transactions  
-✅ **Cost Consciousness:** Saved $6,000+/year through architectural decisions  
-✅ **Performance Focus:** 95% improvements in real-world applications  
-✅ **Problem Solving:** Built OCR pipeline when APIs weren't available  
+✅ **End-to-End Ownership:** Architected and built complete data platform from data sourcing to analytics delivery  
+✅ **Production Experience:** Shipped systems processing ~38K orders/month (~1,260/day) with 2.47M+ records in BigQuery  
+✅ **Cost Consciousness:** Saved $24,000+/year through architectural decisions (93% infrastructure reduction)  
+✅ **Performance Focus:** 95% improvements in real-world applications (90s → 2-3s dashboard loading)  
+✅ **Problem Solving:** Built OCR pipeline when APIs weren't available (1,000+ orders/day, 95%+ accuracy)  
 ✅ **Modern Stack:** Proficient in both GCP and open-source tools (Airflow, dbt, Kafka)  
 ✅ **Continuous Learning:** Active POCs exploring cutting-edge data technologies
 
